@@ -1,0 +1,14 @@
+img{
+    height: 100px;
+    width: auto;
+    display: inline-block;
+    margin:30px;
+}
+#container{
+    width: 700px;
+}
+button{
+    width: 70px;
+    margin-left: 100px;
+    
+}
